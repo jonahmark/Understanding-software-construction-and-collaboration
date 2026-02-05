@@ -50,10 +50,11 @@ In summary, software construction is a comprehensive process that includes many 
 - Mutebi Jonah Mark S24B23/105
 - Mpanga Benard S24B23/112
 - Mugoya Andrew S24B23/013
-- Amafeku David Zole S24B23/004
+- Amafeku David Zole S23B23/004
 - Bukenya Jawadhu S24B23063
 - Nantaayi Megan S24B23/113
 - Ahumuza Williams Ashaba S24B23/009
+
 
 
 
