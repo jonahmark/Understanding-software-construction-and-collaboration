@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Software construction is a fundamental part of building functional and reliable software systems. It goes beyond simply writing code and includes organizing, testing, documenting, and maintaining software over time. Here we explain key concepts related to software construction, including the difference between programming and software construction, challenges caused by poor maintainability, and the importance of version control and code reviews. It also explores how artificial intelligence tools can assist learning without replacing human understanding.
+Software construction is a fundamental part of building functional and reliable software systems. It goes beyond simply writing code and includes organizing, testing, documenting, and maintaining software over time. Here,we explain key concepts related to software construction, including the difference between programming and software construction, challenges caused by poor maintainability, and the importance of version control and code reviews. It also explores how artificial intelligence tools can assist learning without replacing human understanding.
 
 
 ## Programming vs Software Construction
