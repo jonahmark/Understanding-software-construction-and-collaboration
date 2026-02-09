@@ -21,6 +21,7 @@ Maintainability refers to how easy it is for developers to update, fix, or expan
 
 For instance, in a hospital management system with unclear code and no documentation, fixing a small bug could take a lot of time. This can lead to errors, system downtime, and even harm to patients if critical information is affected. Poor maintainability increases development costs and can result in serious problems, especially in systems that are used in critical environments.
 
+**For example, if a hospital system's patient discharge module has tangled code and no documentation, fixing a bug that incorrectly calculates medication dates could take days instead of hours, delaying patient care and potentially causing medication errors.**
 
 ## Importance of Version Control
 
@@ -57,6 +58,7 @@ In summary, software construction is a comprehensive process that includes many 
 - Bukenya Jawadhu S24B23063
 - Nantaayi Megan S24B23/113
 - Ahumuza Williams Ashaba S24B23/009
+
 
 
 
