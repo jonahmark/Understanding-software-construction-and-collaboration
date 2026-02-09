@@ -9,7 +9,7 @@ Software construction is a fundamental part of building functional and reliable 
 
 Programming is the process of writing code that tells a computer how to carry out specific tasks. It focuses on syntax, logic, and making sure the written code works correctly. For example, writing a small program in Python to calculate student grades is considered programming.
 
-On the other hand, software construction includes programming as well as additional practices needed to build systems that can be maintained and improved over time. This includes designing the structure of the code, testing to confirm correct behavior, adding comments and documentation, and organizing files so that others can easily understand and work on the software. A university management system developed by a team with clear design, documentation, and collaborative processes is an example of software construction.
+On the other hand, software construction includes programming and additional practices necessary for building systems that are maintainable and can be improved over time. This includes designing the structure of the code, testing to confirm correct behavior, adding comments and documentation, and organizing files so that others can easily understand and work on the software. A university management system developed by a team with clear design, documentation, and collaborative processes is an example of software construction.
 
 
 ## Effects of Poor Maintainability
